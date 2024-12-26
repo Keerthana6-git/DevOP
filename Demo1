@@ -1,2 +1,4 @@
 Devops is a Development & Operations.
 Devops is a Continuous Integration & Continuous Development tool.
+Devops uses Jenkins, Ansible and Docker.
+It is mainly famous for CI/CD Pipeline.
